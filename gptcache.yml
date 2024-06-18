@@ -1,0 +1,21 @@
+embedding:
+    onnx
+embedding_config:
+    model: 'GPTCache/paraphrase-albert-onnx'
+storage_config:
+    data_dir:
+        gptcache_data
+    manager:
+        sqlite,faiss
+    vector_params:
+        # Set vector storage related params here
+evaluation: 
+    distance
+evaluation_config:
+    # Set evaluation metric kws here
+pre_function:
+    get_prompt
+post_function:
+    first
+config:
+    similarity_threshold: 0.8

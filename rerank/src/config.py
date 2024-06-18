@@ -1,0 +1,2 @@
+DEFAULT_MODEL_NAME = "BAAI/bge-reranker-base"
+MAX_LENGTH = 512

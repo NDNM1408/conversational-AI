@@ -1,0 +1,279 @@
+[
+    {
+        "name": "Die Hard",
+        "description": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+        "genre": ["Action", "Thriller"],
+        "director": "John McTiernan",
+        "stars": ["Bruce Willes", "Alan Rickman", "Bonnie Bedelia"]
+
+    },
+    {
+        "name": "Raiders of the Lost Ark",
+        "description": "The year is 1936. An archeology professor named Indiana Jones is venturing in the jungles of South America searching for a golden statue. Unfortunately, he sets off a deadly trap but miraculously escapes. Then, Jones hears from a museum curator named Marcus Brody about a biblical artifact called The Ark of the Covenant, which can hold the key to human existence. Jones has to venture to vast places such as Nepal and Egypt to find this artifact. However, he will have to fight his enemy Rene Belloq and a band of Nazis in order to reach it.",
+        "genre": ["Action", "Adventure"],
+        "director": "Steven Spielberg",
+        "stars": ["Harrison Ford", "Karen Allen", "Paul Freeman"]
+    },
+    {
+        "name": "Indiana Jones and the Temple of Doom",
+        "description": "Indiana Jones teams up with a nightclub singer named Wilhelmina Willie Scott and a twelve-year-old Chinese boy named Short Round. They end up in a small distressed village in India, where the people believe that evil spirits have taken all their children away after a sacred precious stone was stolen. They also discover the great mysterious terror surrounding a booby-trapped temple known as the Temple of Doom. Thuggee is beginning to attempt to rise once more, believing that with the power of all five Sankara stones they can rule the world. It's all up to Indiana to put an end to the Thuggee campaign, rescue the lost children, win the girl and conquer the Temple of Doom",
+        "genre": ["Action", "Adventure"],
+        "director": "Steven Spielberg",
+        "stars": ["Harrison Ford", "Kate Capshaw"]
+    },
+    {
+        "name": "Indiana Jones and the Last Crusade",
+        "description": "An art collector appeals to Indiana Jones to embark on a search for the Holy Grail. He learns that another archaeologist has disappeared while searching for the precious goblet, and the missing man is his own father, Dr. Henry Jones. The artifact is much harder to find than they expected, and its powers are too much for those impure of heart.",
+        "genre": ["Action", "Adventure"],
+        "director": "Steven Spielberg",
+        "stars": ["Harrison Ford", "Sean Connery", "Alison Doody"]
+    },
+    {
+        "name": "Mad Max 2",
+        "description": "After eradicating Night Rider's followers in Mad Max (1979), former patrolman Max Rockatansky now scavenges for food and precious petrol on the deserted highways of an energy-starved Australia. Then, Max stumbles upon a small oil refinery in the scorched wilderness; however, there's a catch: the community of survivors is under siege by brutal biker warlord Lord Humungus and his barbarian marauders. Now, to get his hands on as much gas as he can carry, Mad Max will have to provide the defenceless residents with a powerful truck. Using this method, they can transport gasoline to safety. Of course, this is easier said than done. Is the Road Warrior up to the task?",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "director": "Geogre Miller",
+        "stars": ["Mel Gibson", "Bruce Spence", "Micheal Preston"]
+    },
+    {
+        "name": "RoboCop",
+        "description": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters",
+        "genre": ["Action", "Crime", "Sci-Fi", "Thriller"],
+        "director": "Paul Verhoeven",
+        "stars": ["Peter Weller", "Nancy Allen", "Dan O'Herlihy"]
+    },
+    {
+        "name": "Aliens",
+        "description": "57 years after Ellen Ripley had a close encounter with the reptilian alien creature from the first movie, she is called back, this time, to help a group of highly trained colonial marines fight off against the sinister extraterrestrials. But this time, the aliens have taken over a space colony on the moon LV-426. When the colonial marines are called upon to search the deserted space colony, they later find out that they are up against more than what they bargained for. Using specially modified machine guns and enough firepower, it's either fight or die as the space marines battle against the aliens. As the Marines do their best to defend themselves, Ripley must attempt to protect a young girl who is the sole survivor of the nearly wiped out space colony.",
+        "genre": ["Action", "Adventure", "Thriller", "Sci-Fi"],
+        "director": "James Cameron",
+        "stars": ["Sigourney Weaver", "Michael Biehn", "Carrie Henn"]
+    },
+    {
+        "name": "Point Break",
+        "description": "In Los Angeles, California, a gang of bank robbers call themselves The Ex-Presidents. commit their crimes while wearing masks of ex-Presidents Reagan, Carter, Nixon, and Johnson. The F.B.I. believes that the members of the gang could be surfers, and send young Agent Johnny Utah undercover at the beach to mix with the surfers and gather information. Utah meets surfer Bodhi, and gets drawn into the lifestyle of his new friend",
+        "genre": ["Action", "Crime", "Thriller"],
+        "director": "Kathryn Bigelow",
+        "stars": ["Patrick Swayze", "Keanu Reeves", "Gary Busey"]
+    },
+    {
+        "name": "The Rock",
+        "description": "Stanley Goodspeed, who lives in Washington, D.C., is a biochemist who works for the F.B.I. Soon after his fiancée Carla Pestalozzi announces that she is pregnant, Stanley gets a call from F.B.I. Director James Womack. Womack tells Stanley that San Francisco's Alcatraz Island has been taken hostage, along with eighty-one tourists, by Marine General Francis Xavier Hummel who, for years, has been protesting the government's refusal to pay benefits to families of war veterans who died during covert military operations. The death of his wife Barbara on March 9, 1995 drove General Hummel over the edge, and now he's holding hostages in order to get his point across. Stanley is needed because General Hummel has stolen some VX gas warheads and has announced that he will launch them onto San Francisco unless his demands are met. Stanley knows how to disarm the bombs, but he needs someone who knows Alcatraz well enough to get him inside. That man is former British Intelligence Agent John Patrick Mason, who has been in prison for the past thirty years without a trial because he was accused of stealing the private files of J. Edgar Hoover. In 1962, John became the only inmate ever to escape from Alcatraz, and he stayed out of Alcatraz long enough to father a daughter named Jade Angelou. Despite his extreme hatred of the F.B.I., John agrees to help Stanley. When John and Stanley are sent into Alcatraz with a Navy S.E.A.L. team, General Hummel's men kill the entire S.E.A.L. team, leaving Stanley and John to work on their own to rescue the hostages.",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "director": "Micheal Bay",
+        "stars": ["Sean Connery", "Nicolas Cage", "Ed Harris"]
+    },
+    {
+        "name": "Lethal Weapon",
+        "description": "Martin Riggs is an L.A. cop with suicidal tendencies and Roger Murtaugh is the unlucky police officer with whom Riggs is assigned. Together they uncover a huge drug-smuggling operation, and as their success rate grows so does their friendship.",
+        "genre": ["Action", "Crime", "Thriller"],
+        "director": "Steven Spielberg",
+        "stars": ["Mel Gibson", "Danny Glover", "Gary Busey"]
+    },
+    {
+        "name": "Speed",
+        "description": "When a young Los Angeles police department, Special Weapons and Tactics (S.W.A.T.) officer called Jack Traven angers retired Atlanta police department bomb squad member Howard Payne, by foiling his attempt at taking hostages stuck in an elevator with a bomb, Payne in retaliation arms a bus with a bomb that will explode if it drops below 50 miles per hour. With the help of spunky passenger Annie, Jack and his partner Detective Harry Temple try to save the people on the bus before the bomb goes off, while also trying to figure out how Payne is monitoring them.",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "director": "Jan de Bont",
+        "stars": ["Keanu Reeves", "Dennis Hopper", "Sandra Bullock"]
+    },
+    {
+        "name": "First Blood",
+        "description": "John J. Rambo is a former United States Special Forces soldier who fought in Vietnam and won the Congressional Medal of Honor, but his time in Vietnam still haunts him. As he came to Hope, Washington to visit a friend, he was guided out of town by the Sheriff William Teasel who insults Rambo, but what Teasel does not know that his insult angered Rambo to the point where Rambo became violent and was arrested. As he was at the county jail being cleaned, he escapes and goes on a rampage through the forest to try to escape from the sheriffs who want to kill him. Then, as Rambo's commanding officer, Colonel Samuel Trautman tries to save both the Sheriff's department and Rambo before the situation gets out of hand.",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "director": "Ted Kotcheff",
+        "stars": ["Sylvester Stallone", "Brian Dennehy", "Richard Crenna"]
+    },
+    {
+        "name": "Commando",
+        "description": "A retired special agent named John Matrix led an elite unit and has left the armed forces to live in a secluded mountain home with his daughter Jenny. But now he is forced out of retirement when his daughter is kidnapped by a band of thugs intent on revenge. Unbeknownst to Matrix, the members of his former unit are being killed one by one. Even though Matrix' friend General Franklin Kirby gives Matrix armed guards, attackers manage to kidnap Matrix and Jenny. Matrix learns that a warlord called Arius wishes to lead a military coup in his home country. If Matrix refuses to help him out, Jenny will die.",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "director": "Mark L.Lester",
+        "stars": ["Arnold Schwarzenegger", "Rae Dawn Chong", "Dan Hedaya"]
+    },
+    {
+        "name": "Total Recall",
+        "description": "Douglas Quaid is haunted by a recurring dream about a journey to Mars. He hopes to find out more about this dream and buys a holiday at Rekall Inc. where they sell implanted memories. But something goes wrong with the memory implantation and he remembers being a secret agent fighting against the evil Mars administrator Cohaagen. Now the story really begins and it's a rollercoaster ride until the massive end of the movie.",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "director": "Paul Verhoeven",
+        "stars": ["Arnold Schwarzenegger", "Sharon Stone", "Micheal Ironside"]
+    },
+    {
+        "name": "Die Hard with a Vengeance",
+        "description": "John McClane is now almost a full-blown alcoholic and is suspended from the NYPD. But when a bomb goes off in the Bonwit Teller Department Store the police go insane trying to figure out what's going on. Soon, a man named Simon calls and asks for McClane. Simon tells Inspector Walter Cobb that McClane is going to play a game called Simon Says. He says that McClane is going to do the tasks he assigns him. If not, he'll set off another bomb. With the help of a Harlem electrician, John McClane must race all over New York trying to figure out the frustrating puzzles that the crafty terrorist gives him. But when a bomb goes off in a subway station right by the Federal Reserve (the biggest gold storage in the world) things start to get heated.",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "director": "John McTiernan",
+        "stars": ["Bruce Willes", "Jeremy Irons", "Samuel L.Jackson"]
+    },
+    {
+        "name": "Con Air",
+        "description": "Cameron Poe, a highly decorated Army Ranger, comes home to Alabama to his wife Tricia, only to run into a few drunken regulars at the bar where she works. Cameron accidentally kills one of the drunks, and is sent to a federal penitentiary for involuntary manslaughter for seven years. He becomes eligible for parole and can now go home to his wife and daughter. Unfortunately, Cameron has to share a prison airplane with some of the country's most dangerous criminals, who take control of the plane and are now planning to escape the country. Cameron has to find a way to stop them while playing along. Meanwhile, United States Marshal Vince Larkin is trying to help Cameron get free and stop the criminals, led by Cyrus Grissom.",
+        "genre": ["Action", "Crime", "Thriller"],
+        "director": "Simon West",
+        "stars": ["Nicolas Cage", "John Cusack", "John Malkovich"]
+    },
+    {
+        "name": "True Lies",
+        "description": "Harry Tasker (Arnold Schwarzenegger) leads a double life. At work he is a government agent with a license to do just about anything, while at home he pretends to be a dull computer salesman. He is on the trail of stolen nuclear weapons that are in the hands of fanatic terrorists when something more important comes up. Harry finds his wife is seeing another man (Bill Paxton) because she needs some adventure in her life. Harry decides to give it to her, juggling pursuit of terrorists on one hand and an adventure for his wife on the other while showing he can Tango all at once",
+        "genre": ["Action", "Comedy", "Thriller"],
+        "director": "James Cameron",
+        "stars": ["Arnold Schwarzenegger", "James Lee Curtis", "Tom Arnold"]
+    },
+
+    {
+        "name": "Big Trouble in Little China",
+        "description": "Jack Burton, a rational, wise-cracking, long-distance trucker, is in for a big surprise when he decides to help his best friend Wang free his kidnapped fiancée, Miao Yin. But as Jack rushes headlong into the perilous criminal underworld of San Francisco's Chinatown, hot on the trail of centuries-old Chinese sorcerer David Lo Pan, the mystery of an ancient curse unfolds. Now, as Jack and his companions embark on a frenzied rescue mission in the heart of the sorcerer's dark labyrinth, Lo Pan's deadly minions, blood-curdling supernatural horrors, and a trio of unstoppable Kung Fu masters stand in the way of success. Can Jack save the girl from the magician's clutches and live to tell the tale?",
+        "genre": ["Action", "Adventure"],
+        "director": "John Carpenter",
+        "stars": ["Kurt Russell", "Kim Cattrall", "Dennis Dun"]
+    },
+
+    {
+        "name": "Last Action Hero",
+        "description": "Young Danny Madigan is a huge fan of Jack Slater, a larger-than-life action hero played by Arnold Schwarzenegger. When his best friend, Nick the projectionist, gives him a magic ticket to the newest Jack Slater movie, Danny is transported into Slater's world, his number one hero where the good guys always win. It's a dream come true for Danny, but things take a turn for the worse when one of Slater's enemies, Benedict the hit man, gets ahold of the ticket and ends up in Danny's world. Slater and Danny must join forces and travel back and stop him at all costs before it'll be the end of Jack Slater.",
+        "genre": ["Action", "Adventure", "Comedy", "Fantasy"],
+        "director": "John McTiernan",
+        "stars": ["Arnold Schwarzenegger", "F.", "Paul Freeman"]
+    },
+
+    {
+        "name": "They Live",
+        "description": "Nada, a down-on-his-luck construction worker, discovers a pair of special sunglasses. Wearing them, he is able to see the world as it really is: people being bombarded by media and government with messages like Stay Asleep, No Imagination, Submit to Authority. Even scarier is that he is able to see that some usually normal-looking people are in fact ugly aliens in charge of the massive campaign to keep humans subdued",
+        "genre": ["Action", "Horror", "Sci-Fi", "Thriller"],
+        "director": "John Carpenter",
+        "stars": ["Roddy Piper", "Keith David", "Meg Foster"]
+    },
+    {
+        "name": "The Terminator",
+        "description": "Sent back from a dystopian 2029--where the cold machines have conquered the entire world--to 1984 Los Angeles, the indestructible cyborg-assassin known as the Terminator commences his deadly mission to kill humankind's most important woman: the unsuspecting Sarah Connor. However, from the same war-torn post-apocalyptic future comes a battle-scarred defender--Kyle Reese, a brave soldier of the human Resistance Army--bent on stopping the cybernetic killer from eliminating the world's last hope. But, the Terminator has no feelings, he doesn't sleep, and above all, he won't stop until he carries out his grim task. Does our future lie in our past?",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "director": "James Cameron",
+        "stars": ["Arnold Schwarzenegger", "Linda Hamilton", "Michael Biehn"]
+    },
+    {
+        "name": "The Matrix",
+        "description": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. As a rebel against the machines, Neo must confront the agents: super-powerful computer programs devoted to stopping Neo and the entire human rebellion.",
+        "genre": ["Action", "Sci-Fi"],
+        "director": "Lana Wachowski",
+        "stars": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"]
+    },
+    {
+        "name": "Rambo: First Blood Part II",
+        "description": "Only a few years after the all-out guerrilla war in Rambo: Đổ Máu (1982), John Rambo's former commanding officer, Colonel Sam Trautman, pulls him out of jail, only to send him back to a place he swore never to return: the impenetrable jungles of Vietnam. Entrusted with the dangerous task of collecting evidence that American POWs are still being held captive, Rambo agrees to infiltrate the unknown zone, and before long, he finds himself double-crossed, marooned behind the enemy lines. Once, John fought for his country. Now, the government has left him for dead in a Soviet-infested land. Can Rambo fulfil his suicide mission? Will he deliver his lethal justice?",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "director": "Geogre P.Cosmatos",
+        "stars": ["Sylvester Stallone", "Richard Crenna", "Charles Napier"]
+    },
+    {
+        "name": "The Mummy",
+        "description": "An English librarian called Evelyn Carnahan becomes interested in starting an archaeological dig at the ancient city of Hamunaptra. She gains the help of Rick O'Connell, after saving him from his death. What Evelyn, her brother Jonathan and Rick are unaware of is that another group of explorers are interested in the same dig. Unfortunately for everyone, this group ends up unleashing a curse which been laid on the dead High Priest Imhotep. Now 'The Mummy' is awake and it's going to take a lot more than guns to send him back to where he came from",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "director": "Stephen Sommers",
+        "stars": ["Brendan Fraser", "Rachel Weisz", "John Hannah"]
+    },
+    {
+        "name": "The Running Man",
+        "description": "Sent back from a dystopian 2029--where the cold machines have conquered the entire world--to 1984 Los Angeles, the indestructible cyborg-assassin known as the Terminator commences his deadly mission to kill humankind's most important woman: the unsuspecting Sarah Connor. However, from the same war-torn post-apocalyptic future comes a battle-scarred defender--Kyle Reese, a brave soldier of the human Resistance Army--bent on stopping the cybernetic killer from eliminating the world's last hope. But, the Terminator has no feelings, he doesn't sleep, and above all, he won't stop until he carries out his grim task. Does our future lie in our past?",
+        "genre": ["Action", "Thriller", "Sci-Fi"],
+        "director": "Stephen King",
+        "stars": ["Arnold Schwarzenegger", "Maria Conchita Alonso", "Yaphet Kotto"]
+    },
+    {
+        "name": "TThe Last Boy Scout",
+        "description": "A down and out cynical detective teams up with a down and out ex-quarterback to try and solve a murder case involving a pro football team and a politician.",
+        "genre": ["Action", "Comedy", "Crime", "Thriller"],
+        "director": "Tony Scott",
+        "stars": ["Bruce Willes", "Damon Wayans", "Chelsea Field"]
+    },
+    {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "description": "Sent back from a dystopian 2029--where the cold machines have conquered the entire world--to 1984 Los Angeles, the indestructible cyborg-assassin known as the Terminator commences his deadly mission to kill humankind's most important woman: the unsuspecting Sarah Connor. However, from the same war-torn post-apocalyptic future comes a battle-scarred defender--Kyle Reese, a brave soldier of the human Resistance Army--bent on stopping the cybernetic killer from eliminating the world's last hope. But, the Terminator has no feelings, he doesn't sleep, and above all, he won't stop until he carries out his grim task. Does our future lie in our past?",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "director": "James Cameron",
+        "stars": ["Arnold Schwarzenegger", "Linda Hamilton", "Michael Biehn"]
+    },
+    {
+        "name": "The Dark Knight",
+        "description": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as The Joker appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to confront everything he believes and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes",
+        "genre": ["Action", "Crime", "Drama", "Thriller"],
+        "director": "Christopher Nolan",
+        "stars": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+    },
+    {
+        "name": "Tango & Cash",
+        "description": "Intense professional rivalry prolongs the instinctive antipathy between the impeccably dressed BHPD Lieutenant Ray Tango and his impulsive polar opposite, LAPD Lieutenant Gabe Cash. And as they get in each other's way, Yves Perret, a ruthless international drug lord, plans his next move. But instead of bringing down their arch-nemesis, falsified evidence condemns the crime fighters to rot in a maximum-security prison. As their former enemies, hardened criminals incarcerated by them, ache to get their sweet revenge on their captors, Tango and Cash must put their differences aside to survive imprisonment and clear their names. But good plans are hard to come by. Can the mismatched partners learn how to work together and get even with the brutal crime baron?",
+        "genre": ["Action", "Comedy", "Crime", "Thriller"],
+        "director": "Andrey Konchalovskiy",
+        "stars": ["Sylvester Stallone", "Kurt Russell", "Teri Hatcher"]
+    },
+    {
+        "name": "Casino Royale",
+        "description": "James Bond (Daniel Craig) goes on his first mission as a 00. Le Chiffre (Mads Mikkelsen) is a banker to the world's terrorists. He is participating in a poker game at Montenegro, where he must win back his money, in order to stay safe amongst the terrorist market. The boss of MI6, known simply as M (Dame Judi Dench) sends Bond, along with Vesper Lynd (Eva Green) to attend this game and prevent Le Chiffre from winning. Bond, using help from Felix Leiter (Jeffrey Wright), Rene Mathis (Giancarlo Giannini), and having Vesper pose as his partner, enters the most important poker game in his already dangerous career. But if Bond defeats Le Chiffre, will he and Vesper Lynd remain safe?",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "director": "Martin Campbell",
+        "stars": ["Daniel Craig", "Eva Green", "Judi Dench"]
+    },
+    {
+        "name": "Mad Max: Fury Road",
+        "description": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and almost everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order. There's Max, a man of action and a man of few words, who seeks peace of mind following the loss of his wife and child in the aftermath of the chaos. And Furiosa, a woman of action and a woman who believes her path to survival may be achieved if she can make it across the desert back to her childhood homeland.",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "director": "Geogre Miller",
+        "stars": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"]
+    },
+    {
+        "name": "The Bourne Identity",
+        "description": "When a body is recovered at sea still alive, the mystery man (Damon) seems to have forgotten everything in life, including who he was. Eventually he begins to remember smaller details in life and soon finds out that his name was Jason Bourne. What he doesn't like is the gun and fake passports belonging to him. Now Bourne, and his new friend, Marie Helena Kreutz (Potente) travel from country to country in search of his new identity. But someone is not happy to see him alive, and is frantically trying to track him down.",
+        "genre": ["Action", "Mystery", "Thriller"],
+        "director": "Doug Liman",
+        "stars": ["Franka Potente", "Matt Damon", "Chris Cooper"]
+    },
+    {
+        "name": "The Bourne Supremacy",
+        "description": "Two years ago, Jason Bourne thought he had walked away from his past. But now the past catches up to Jason Bourne when the CIA threatens to ruin his new life. Bourne and Marie have maintained their anonymous, underground existence at the cost of permanence. Fueled by splintered nightmares and haunted by the past he cannot remember, Bourne moves Marie from city to city, trying to remain one step ahead of the threat implicit in every unexplained stranger's glance, every wrong number phone call--that at any second, without any warning, he might get pulled back into the world he hopes he left behind.",
+        "genre": ["Action", "Mystery", "Thriller"],
+        "director": "Paul Greengrass",
+        "stars": ["Franka Potente", "Matt Damon", "Joan Allen"]
+    },
+    {
+        "name": "The Bourne Ultimatum",
+        "description": "Bourne is once again brought out of hiding, this time inadvertently by London-based reporter Simon Ross who is trying to unveil Operation Blackbriar--an upgrade to Project Treadstone--in a series of newspaper columns. Bourne sets up a meeting with Ross and realizes instantly they're being scanned. Information from the reporter stirs a new set of memories, and Bourne must finally, ultimately, uncover his dark past whilst dodging The Company's best efforts in trying to eradicate him.",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "director": "Paul Greengrass",
+        "stars": ["Matt Damon", "Edgar Ramirez", "Joan Allen"]
+    },
+    {
+        "name": "Kill Bill: Vol. 2",
+        "description": "The murderous Bride is back and she is still continuing her vengeance quest against her ex-boss, Bill, and taking aim at Bill's younger brother Budd and Elle Driver, the only survivors from the squad of assassins who betrayed her four years earlier. It's all leading up to the ultimate confrontation with Bill, the Bride's former master and the man who ordered her execution!",
+        "genre": ["Action", "Crime", "Thriller"],
+        "director": "Quentin Tarantino",
+        "stars": ["Uma Thurman", "David Carradine", "Michael Madsen"]
+    },
+    {
+        "name": "Kill Bill: Vol. 1",
+        "description": "The lead character, called 'The Bride,' was a member of the Deadly Viper Assassination Squad, led by her lover 'Bill.' Upon realizing she was pregnant with Bill's child, 'The Bride' decided to escape her life as a killer. She fled to Texas, met a young man, who, on the day of their wedding rehearsal was gunned down by an angry and jealous Bill (with the assistance of the Deadly Viper Assassination Squad). Four years later, 'The Bride' wakes from a coma, and discovers her baby is gone. She, then, decides to seek revenge upon the five people who destroyed her life and killed her baby. The saga of Kill Bill Volume I begins.",
+        "genre": ["Action", "Crime", "Thriller"],
+        "director": "Quentin Tarantino",
+        "stars": ["Uma Thurman", "David Carradine", "Daryl Hannah"]
+    },
+    {
+        "name": "Skyfall",
+        "description": "When James Bond's latest assignment goes gravely wrong and agents around the world are exposed, MI6 is attacked, forcing M to relocate the agency. These events cause her authority and position to be challenged by Gareth Mallory, the new Chairman of the Intelligence and Security Committee. With MI6 now compromised from both inside and out, M is left with one ally she can trust: Bond. 007 takes to the shadows, aided only by field agent, Miss Eve Moneypenny, following a trail to a mysterious enemy, whose lethal and hidden motives have yet to reveal themselves.",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "director": "Sam Mendes",
+        "stars": ["Daniel Craig", "Javier Bardem", "Naomie Harris"]
+    },
+    {
+        "name": "John Wick",
+        "description": "With the untimely death of his beloved wife still bitter in his mouth, John Wick, the expert former assassin, receives one final gift from her--a precious keepsake to help John find a new meaning in life now that she is gone. But when the arrogant Russian mob prince, Iosef Tarasov, and his men pay Wick a rather unwelcome visit to rob him of his prized 1969 Mustang and his wife's present, the legendary hitman will be forced to unearth his meticulously concealed identity. Blind with revenge, John will immediately unleash a carefully orchestrated maelstrom of destruction against the sophisticated kingpin, Viggo Tarasov, and his family, who are fully aware of his lethal capacity. Now, only blood can quench the boogeyman's thirst for retribution.",
+        "genre": ["Action", "Crime", "Thriller"],
+        "director": "Chad Stahelski",
+        "stars": ["Keanu Reeves", "Micheal Nyqvist", "Alfie Allen"]
+    },
+    {
+        "name": "John Wick: Chapter 2",
+        "description": "Bound by an inescapable blood debt to the Italian crime lord, Santino D'Antonio, and with his precious 1969 Mustang stolen, John Wick--the taciturn and pitiless assassin who thirsts for seclusion--is forced to visit Italy to honour his promise. But, soon, the Bogeyman will find himself dragged into an impossible task in the heart of Rome's secret criminal society, as every killer in the business dreams of cornering the legendary Wick who now has an enormous price on his head. Drenched in blood and mercilessly hunted down, John Wick can surely forget a peaceful retirement as no one can make it out in one piece.",
+        "genre": ["Action", "Crime", "Thriller"],
+        "director": "Chad Stahelski",
+        "stars": ["Keanu Reeves", "Riccardo Scamario", "Ian McShane"]
+    }
+]

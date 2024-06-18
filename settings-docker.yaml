@@ -1,0 +1,52 @@
+server:
+  env_name: ${APP_ENV:prod}
+  port: ${PORT:8080}
+
+llm:
+  mode: ${LLM:vllm}
+
+embedding:
+  mode: ${EMBEDDING:text_embeddings_inference}
+
+vectorstore:
+  database: ${VECTOR_STORE:weaviate}
+
+weaviate:
+  weaviate_endpoint: ${WEAVIATE_ENDPOINT:http://localhost:9090}
+  index_name: Law07032024
+
+vllm:
+  vllm_endpoint: http://103.145.79.20:6017/v1/completions
+  # api_url: http://localhost:8000/v1/completions
+  llm_model: Viet-Mistral/Vistral-7B-Chat
+  prompt_style: default
+  temperature: 1
+  max_tokens: 1024
+
+text_embeddings_inference:
+  text_embeddings_inference_endpoint: ${TEXT_EMBEDDINGS_INFERENCE_ENDPOINT:http://127.0.0.1:8080}
+  timeout: 60
+
+ui:
+  enabled: true
+  path: /
+
+rag:
+  similarity_top_k: 100
+  #This value controls how many "top" documents the RAG returns to use in the context.
+  #similarity_value: 0.45
+  #This value is disabled by default.  If you enable this settings, the RAG will only use articles that meet a certain percentage score.
+  
+  custom_retriever:
+    enabled: true
+    retrieval_top_k: 3
+    dense_threshold: 0.35
+    # RAG will only use articles that meet a 0.35 percentage dense score.
+    bm25_threshold: 8.0
+    # RAG will only use articles that meet a 8.0 percentage bm25 score.
+
+  rerank:
+    enabled: false
+    top_n: 3
+    mode: model_api
+

@@ -1,0 +1,91 @@
+# poetry install --extras "ui llms-llama-cpp vector-stores-qdrant embeddings-huggingface"
+server:
+  env_name: ${APP_ENV:local}
+  port: ${PORT:8089}
+
+llm:
+  mode: nvidia_nim
+  # Should be matching the selected model
+  max_new_tokens: 512 
+  context_window: 3900
+  tokenizer: mistralai/Mistral-7B-Instruct-v0.2
+
+nvidia_nim:
+  model: meta/llama3-70b-instruct
+  api_base: https://integrate.api.nvidia.com/v1
+  api_key: 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
+  temperature: 0.5
+  top_p: 1
+  max_tokens: 1024
+
+llamacpp:
+  prompt_style: "mistral"
+  # llm_hf_repo_id: uonlp/Vistral-7B-Chat-gguf
+  llm_hf_model_file: mistral-7b-instruct-v0.2.Q4_0.gguf
+
+translation:
+  enabled: true
+
+
+embedding:
+  mode: text_embeddings_inference
+
+vectorstore:
+  database: weaviate
+
+# vllm:
+#   vllm_endpoint: http://103.145.79.20:6017/v1/completions
+#   # api_url: http://localhost:8000/v1/completions
+#   llm_model: Viet-Mistral/Vistral-7B-Chat
+#   prompt_style: default
+#   temperature: 1
+#   max_tokens: 1024
+
+text_embeddings_inference:
+  text_embeddings_inference_endpoint: http://127.0.0.1:8081
+  timeout: 60
+
+weaviate:
+  weaviate_endpoint: http://localhost:9090
+  index_name: Test_Film
+
+rag:
+  similarity_top_k: 5
+  #This value controls how many "top" documents the RAG returns to use in the context.
+  #similarity_value: 0.45
+  #This value is disabled by default.  If you enable this settings, the RAG will only use articles that meet a certain percentage score.
+  
+  custom_retriever:
+    enabled: true
+    retrieval_top_k: 3
+    dense_threshold: 0.35
+    # RAG will only use articles that meet a 0.35 percentage dense score.
+    bm25_threshold: 8.0
+    # RAG will only use articles that meet a 8.0 percentage bm25 score.
+  
+  
+  translation: 
+    enabled: false
+    endpoint: http://127.0.0.1:8085/translation
+
+  # rerank:
+  #   enabled: false
+  #   top_n: 3
+  #   mode: model_api
+# # 
+# model_api_rerank:
+#   model_api_endpoint: http://localhost:8084/rerank
+  
+ui:
+  enabled: true
+  path: /
+  default_chat_system_prompt: >
+    Always assist with care, respect, and truth. Respond with utmost utility yet securely. Avoid harmful,
+    unethical, prejudiced, or negative content. Ensure replies promote fairness and positivity.
+  default_query_system_prompt: >
+    You can only answer questions about the provided context. 
+    If you know the answer but it is not based in the provided context, don't provide 
+    the answer, just state the answer is not in the context provided.
+  delete_file_button_enabled: true
+  delete_all_files_button_enabled: true
+
